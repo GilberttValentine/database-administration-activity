@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/pablo/Documents/NetBeansProjects/Ejemplo/src/main/view/FrmClient.java</file>
+            <file>file:/C:/Users/pablo/Documents/NetBeansProjects/Ejemplo/src/main/view/FrmAddClient.java</file>
+            <file>file:/C:/Users/pablo/Documents/NetBeansProjects/Ejemplo/src/main/model/entities/Client.java</file>
+            <file>file:/C:/Users/pablo/Documents/NetBeansProjects/Ejemplo/src/main/view/Navigator.java</file>
+            <file>file:/C:/Users/pablo/Documents/NetBeansProjects/Ejemplo/src/main/model/entities/ConnectionBD.java</file>
+            <file>file:/C:/Users/pablo/Documents/NetBeansProjects/Ejemplo/src/main/view/FrmArticle.java</file>
+            <file>file:/C:/Users/pablo/Documents/NetBeansProjects/Ejemplo/src/main/controllers/ClientController.java</file>
+            <file>file:/C:/Users/pablo/Documents/NetBeansProjects/Ejemplo/src/main/model/entities/Article.java</file>
+            <file>file:/C:/Users/pablo/Documents/NetBeansProjects/Ejemplo/src/main/controllers/ArticleController.java</file>
+            <file>file:/C:/Users/pablo/Documents/NetBeansProjects/Ejemplo/src/main/view/FrmAddArticle.java</file>
+            <file>file:/C:/Users/pablo/Documents/NetBeansProjects/Ejemplo/src/main/view/FrmEditArticle.java</file>
+            <file>file:/C:/Users/pablo/Documents/NetBeansProjects/Ejemplo/src/main/view/FrmEditClient.java</file>
+        </group>
+    </open-files>
+</project-private>
